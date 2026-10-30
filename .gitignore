@@ -1,0 +1,43 @@
+# Build outputs
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Object files
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Temp files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# OpenOCD logs
+openocd.log
+*.log
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Backup
+*.bak
+*.old
